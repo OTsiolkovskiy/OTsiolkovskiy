@@ -74,7 +74,7 @@ My name is Oleh, and I'm a Full-Stack Developer. I specialize in front-end devel
   <a href="https://t.me/Oleh_Tsiolkovskiy"><img height="24px" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/oleh-tsiolkovskiy-2729692b8/"><img height="24px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:oleh.tsiolkovskiy.dev@gmail.com"><img height="24px" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://docs.google.com/document/d/1ZSyXCKOPwwLoKGLGsKUSRyaH6QYynRzp4WWTvWrOgE8/edit?usp=sharing"><img height="24px" src="https://img.shields.io/badge/-CV-000000?style=flat&logo=pdf&logoColor=white" /></a>
+ <a href="https://drive.google.com/file/d/1shClDHsYQXIi1uGgXqK8x-BcSbacrkig/view?usp=sharing"><img height="24px" src="https://img.shields.io/badge/-CV-000000?style=flat&logo=pdf&logoColor=white" /></a></a>
 </div>
 
 
